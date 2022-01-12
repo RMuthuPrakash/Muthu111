@@ -7,6 +7,9 @@ public class Education extends Engineering {
 	private void pg() {
 		System.out.println("my edu of pg is:MTech");
 	}
+	private void muthu() {
+		System.out.println("Muthu Works in Bangalore");
+	}
 	public static void main(String[] args) {
 		Education e= new Education();
 		e.bA();
